@@ -5,12 +5,10 @@ A simple and fun **Stone Paper Scissors** (Rock Paper Scissors) game built using
 ## 🎮 Live Demo
 
 > 🔗 [https://akashraj2106.github.io/stone-paper-scissors-game/](#)  
-*(Replace with your deployed link if available)*
 
 ## 📸 Screenshot
 
 ![Game Preview](screenshot.png)  
-*(Make sure to add a `screenshot.png` of your game in the repo)*
 
 ## 🚀 Features
 
@@ -40,7 +38,6 @@ Edit
 ## ⚙️ How to Run Locally
 
 1. Clone the repository
-   ```bash
    git clone https://github.com/your-username/stone-paper-scissors.git
 Navigate to the folder
 
